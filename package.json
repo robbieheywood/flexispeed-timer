@@ -1,0 +1,20 @@
+{
+  "name": "flexispeed-timer",
+  "version": "1.0.0",
+  "description": "A Typescript timer that can be easily sped up and slowed down",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Robbie Heywood",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^24.0.15",
+    "@types/node": "^12.6.8",
+    "jest": "^24.8.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.3"
+  },
+  "jest": {
+    "preset": "ts-jest"
+  }
+}
